@@ -6,16 +6,17 @@ highlighter:      pygments
 permalink:        pretty
 relative_permalinks: true
 
+name: 'm-dnf no-mercy'
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            '던파 모바일 노머시 길드공지'
+tagline:          '던파 모바일'
+description:      '던파 모바일 노머시 '
+url:              https://nenyounggam.github.io/
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'nenyounngam'
+  url:            https://nenyounggam.github.io/
 
 paginate:         5
 
